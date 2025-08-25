@@ -52,7 +52,7 @@ For learning purposes, the OMDb API key is hardcoded in the code.
 👉 In a real-world project, it’s recommended to keep the API key in environment variables (.env) instead of exposing it publicly.
 
 ## 🌐 Live Demo
-👉 Try LayanMovie here
+👉 [Try LayanMovie here](www.layanmovie.com)
 
 ## 🔮 Future Improvements
 Some potential improvements to make this project production-ready:
