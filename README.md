@@ -51,9 +51,6 @@ http://localhost:3000
 For learning purposes, the OMDb API key is hardcoded in the code.
 👉 In a real-world project, it’s recommended to keep the API key in environment variables (.env) instead of exposing it publicly.
 
-## 🌐 Live Demo
-👉 [Try LayanMovie here](https://layan-movie.vercel.app/)
-
 ## 🔮 Future Improvements
 Some potential improvements to make this project production-ready:
 
@@ -67,6 +64,3 @@ Some potential improvements to make this project production-ready:
 ## 🤝 Acknowledgements
 Inspired and guided by JavaScript Mastery
 Movie data provided by OMDb API
-
-## 📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
