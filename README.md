@@ -57,12 +57,12 @@ For learning purposes, the OMDb API key is hardcoded in the code.
 ## 🔮 Future Improvements
 Some potential improvements to make this project production-ready:
 
-🔑 Move API key to .env file for better security
-📖 Add detailed movie info (actors, plot, genre, ratings, etc.)
-📱 Improve mobile responsiveness and UI styling
-📂 Add pagination or infinite scrolling for large search results
-⭐ Add “favorites” feature to save movies
-⏳ Implement loading indicators and error handling
+- 🔑 Move API key to .env file for better security
+- 📖 Add detailed movie info (actors, plot, genre, ratings, etc.)
+- 📱 Improve mobile responsiveness and UI styling
+- 📂 Add pagination or infinite scrolling for large search results
+- ⭐ Add “favorites” feature to save movies
+- ⏳ Implement loading indicators and error handling
 
 ## 🤝 Acknowledgements
 Inspired and guided by JavaScript Mastery
