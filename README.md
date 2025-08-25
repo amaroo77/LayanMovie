@@ -28,19 +28,19 @@ It allows users to quickly search for movies and view key details in a clean and
 1. Clone the repository  
    ```bash
    git clone https://github.com/amaroo77/LayanMovie.git
-   cd LayanMovie```
+   cd LayanMovie
 
 2. Install dependencies
 ```bash
-npm install```
+npm install
 
 3. Since the API key is hardcoded inside the project, you can directly run the app with:
 ```bash
-npm start```
+npm start
 
 4. Open in your browser:
 ```bash
-http://localhost:3000```
+http://localhost:3000
 
 
 ## ⚠️ Note on API Key
